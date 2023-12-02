@@ -1,0 +1,5 @@
+port_number			15000
+refresh_rate		1
+
+temperature_sensor	AHT10_Temperature
+Humidity_sensor		AHT10_Humidity
