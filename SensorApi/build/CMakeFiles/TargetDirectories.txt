@@ -1,3 +1,0 @@
-/home/steve/CIS566_Project/SensorApi/build/CMakeFiles/SensorApi.dir
-/home/steve/CIS566_Project/SensorApi/build/CMakeFiles/edit_cache.dir
-/home/steve/CIS566_Project/SensorApi/build/CMakeFiles/rebuild_cache.dir
