@@ -8,13 +8,6 @@ if(Boost_FOUND)
 	include_directories(${Boost_INCLUDE_DIRS})
 endif()
 
-find_package(Threads REQUIRED)
-
-if (Threads_FOUND)
-	include_directories(${Threads_INCLUDE_DIRS})
-endif()
-
-
 file (GLOB_RECURSE SensorApi_SOURCES CONFIGURE_DEPENDS "src/*.cpp")
 file (GLOB_RECURSE SensorApi_HEADERS CONFIGURE_DEPENDS "src/*.h")
 
