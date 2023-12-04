@@ -17,7 +17,7 @@ template <class T> class List : public Aggregate<T> {
 public:
 	List() : headNode(0), tailNode(0), listSize(0) { }
 
-	~List() {
+	virtual ~List() {
 		clear();
 	}
 
