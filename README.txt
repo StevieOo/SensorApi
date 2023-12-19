@@ -1,5 +1,5 @@
 DESCRIPTION
-This repo contains the source code for an application that reads data from ambient sensor and publishes to the internet using a web API.  This application was developed for the Raspberry Pi, and currently supports AHT10 Temperature/Humidity sensor.
+This repo contains the source code for an application that reads data from ambient sensors and publishes to the internet using a web API.  This application was developed for the Raspberry Pi, and currently supports AHT10 Temperature/Humidity sensor.
 
 
 PREREQUISITES
@@ -26,7 +26,7 @@ INSTALLATION INSTRUCTIONS
 
 
 RUN INSTRUCTIONS
-	1. Navigate to "SensorApi/SensorApi"folder.
+	1. Navigate to "SensorApi/SensorApi" folder.
 	2. Enter "./SensorApi config" into the terminal to start program
 	   (alternatively, enter "./SensorApi" to view error message). The 
 	   SensorApi status should now be visible in the terminal. Note, this 
