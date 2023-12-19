@@ -1,3 +1,7 @@
+DESCRIPTION
+This repo contains the source code for an application that reads data from ambient sensor and publishes to the internet using a web API.  This application was developed for the Raspberry Pi, and currently supports AHT10 Temperature/Humidity sensor.
+
+
 PREREQUISITES
 	· Device running Linux (Tested using Debian GNU/Linux 12 [bookworm] and
 	  Ubuntu 20.04.6 LTS.)
